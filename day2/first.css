@@ -6,3 +6,8 @@ body{
     font-size:34px;
     text-align:center;
 }
+div p{
+    background-color: blue;
+    font-size:30px;
+
+}
